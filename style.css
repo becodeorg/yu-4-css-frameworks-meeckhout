@@ -22,7 +22,7 @@ body {
 .img {
   max-height: 75px;
   max-width: 75px;
-  margin: 105px 105px 30px 105px;
+  margin: 60px 105px 30px 105px;
 }
 
 .btn {
@@ -32,4 +32,8 @@ body {
 
 .btn:hover {
   opacity: 1;
+}
+
+a {
+  font-size: 14px;
 }/*# sourceMappingURL=style.css.map */
