@@ -1,6 +1,13 @@
 body {
   font-family: "Roboto", sans-serif;
+}
+
+.card-title {
   font-size: 16px;
+}
+
+.card-text {
+  font-size: 12px;
 }
 
 .card {
@@ -15,5 +22,14 @@ body {
 .img {
   max-height: 75px;
   max-width: 75px;
-  margin: 105px;
+  margin: 105px 105px 30px 105px;
+}
+
+.btn {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.btn:hover {
+  opacity: 1;
 }/*# sourceMappingURL=style.css.map */
