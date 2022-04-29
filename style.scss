@@ -1,9 +1,11 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    // font-family: 'Roboto', sans-serif;
+    color: #69748F !important; 
+    background: #E6EFF6 !important;
 }
 
 .card-title {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .card-text {
@@ -16,7 +18,7 @@ body {
 
 .card:hover{
     transform: scale(1.05);
-    box-shadow: 10px;
+    // box-shadow: 10px;
 }
 
 .img {
